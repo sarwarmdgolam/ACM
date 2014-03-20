@@ -1,4 +1,0 @@
-ACM
-===
-
-ACM Solved Problems
